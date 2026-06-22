@@ -23,3 +23,6 @@ This project implements a scalable Market Basket Analysis (MBA) pipeline designe
 ## 🔮 Future Enhancements
 - Transition from batch processing to **Real-time Streaming** using Apache Kafka.
 - Enhance recommendation intelligence by integrating customer session signals and deep learning embeddings.
+
+ 
+
